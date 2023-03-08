@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://shadylhawary.github.io/Shadylhawary_Portfolio/](https://shadylhawary.github.io/Shadylhawary_Portfolio/)
+- 👨‍💻 Some of my projects are available at [https://shadylhawary.github.io/Shadylhawary_Portfolio/](https://shadylhawary.github.io/Shadylhawary_Portfolio/)
 
 - 📫 How to reach me **shadylhawary@gmail.com**
 
